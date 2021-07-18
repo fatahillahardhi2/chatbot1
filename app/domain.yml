@@ -33,7 +33,7 @@ intents:
 responses:
 
   utter_daftarAsk:
-  - text: "hai pendaftaran bisa melalui online dari website kami ya"
+  - text: "hai pendaftaran bisa melalui online dari website kami yaaa"
 
   utter_daftarDone:
   - text: "baik kak, terima kasih juga yaa"
