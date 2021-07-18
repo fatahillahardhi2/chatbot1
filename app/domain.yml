@@ -33,7 +33,16 @@ intents:
 responses:
 
   utter_daftarAsk:
-  - text: "hai pendaftaran bisa melalui online dari website kami yaaa"
+  - text: "halo dengan MinBot disini, untuk pendaftaran jalur apa ya kak?"
+
+  utter_daftarPMDK:
+  - text: "pendaftaran jalur PMDK mulai tanggal 21 September 2020 ya"
+
+  utter_daftarUSM:
+  - text: "pendaftaran jalur USM mulai tanggal 19 September 2020 ya"
+
+  utter_daftarAfterResponse:
+  - text: "ada lagi yang dapat saya bantu?"
 
   utter_daftarDone:
   - text: "baik kak, terima kasih juga yaa"

@@ -9,15 +9,25 @@
   - utter_daftarAsk
 * daftarDone
   - utter_daftarDone -->
-## daftar
-* greet
-  - utter_greet
+## daftarPMDK happy path
 * daftarAsk
   - utter_daftarAsk
+* daftarPMDK
+  - utter_daftarPMDK
+  - utter_daftarAfterResponse
 * daftarDone
   - utter_daftarDone
 
-## happy path
+## daftarUSM happy path
+* daftarAsk
+  - utter_daftarAsk
+* daftarUSM
+  - utter_daftarUSM
+  - utter_daftarAfterResponse
+* daftarDone
+  - utter_daftarDone
+
+<!-- ## happy path
 * greet
   - utter_greet
 * mood_great
@@ -47,4 +57,4 @@
 
 ## bot challenge
 * bot_challenge
-  - utter_iamabot
+  - utter_iamabot -->
