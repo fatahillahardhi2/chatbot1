@@ -1,3 +1,17 @@
+## intent:daftarAsk
+- pendaftarannya sampai kapan ya?
+- gimana cara daftar?
+- hai, saya mau daftar
+
+## intent:daftarDone
+- oh gitu makasih ya
+- udah daftar nih min
+
+## intent:nama
+- [ardhi](tellName)
+- nama saya [annisa](tellName)
+- [novaldy](tellName) kak
+
 ## intent:greet
 - hey
 - hello
@@ -5,6 +19,8 @@
 - good morning
 - good evening
 - hey there
+- kumaha
+- hai
 
 ## intent:goodbye
 - bye

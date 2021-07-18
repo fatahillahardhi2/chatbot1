@@ -1,3 +1,22 @@
+<!-- ## daftar
+* greet
+  - utter_greet
+* nama{"tellName": "ardhi"}
+  - slot {"tellName": "ardhi"}
+  - action_name
+  - utter_nama
+* daftarAsk
+  - utter_daftarAsk
+* daftarDone
+  - utter_daftarDone -->
+## daftar
+* greet
+  - utter_greet
+* daftarAsk
+  - utter_daftarAsk
+* daftarDone
+  - utter_daftarDone
+
 ## happy path
 * greet
   - utter_greet
