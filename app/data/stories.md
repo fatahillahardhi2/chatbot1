@@ -27,6 +27,36 @@
 * daftarDone
   - utter_daftarDone
 
+## daftarPMDK greet
+* greet
+  - utter_greet
+* daftarAsk
+  - utter_daftarAsk
+* daftarPMDK
+  - utter_daftarPMDK
+  - utter_daftarAfterResponse
+
+## daftarUSM greet
+* greet
+  - utter_greet
+* daftarAsk
+  - utter_daftarAsk
+* daftarUSM
+  - utter_daftarUSM
+  - utter_daftarAfterResponse
+
+## daftarDone
+* daftarDone
+  - utter_daftarDone
+
+## daftarAskAgain
+* again
+  - utter_again
+
+
+
+
+
 <!-- ## happy path
 * greet
   - utter_greet

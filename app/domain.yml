@@ -1,14 +1,18 @@
 intents:
-  - greet
-  - goodbye
-  - affirm
-  - deny
-  - mood_great
-  - mood_unhappy
-  - bot_challenge
+  # - greet
+  # - goodbye
+  # - affirm
+  # - deny
+  # - mood_great
+  # - mood_unhappy
+  # - bot_challenge
   - daftarAsk
   - daftarDone
   - nama
+  - daftarPMDK
+  - daftarUSM
+  - greet
+  - again
 
 
 # entities:
@@ -18,22 +22,29 @@ intents:
 #   tellName:
 #     type: text
 
-# actions:
-# - utter_greet
-# - utter_cheer_up
-# - utter_did_that_help
-# - utter_happy
-# - utter_goodbye
-# - utter_iamabot
-# - utter_daftarAsk
-# - utter_daftarDone
-# - utter_nama
-# - action_name
+actions:
+  - utter_greet
+  - utter_cheer_up
+  - utter_did_that_help
+  - utter_happy
+  - utter_goodbye
+  - utter_iamabot
+  - utter_daftarAsk
+  - utter_daftarDone
+  - utter_nama
+  - action_name
+  - utter_daftarPMDK
+  - utter_daftarUSM
+  - utter_daftarAfterResponse
+  - utter_again
 
 responses:
+  utter_again:
+  - text: "baik, apa yang ingin ditanyakan?"
+  - text: "apa yang dapat saya bantu?"
 
   utter_daftarAsk:
-  - text: "halo dengan MinBot disini, untuk pendaftaran jalur apa ya kak?"
+  - text: "baik, untuk pendaftaran jalur apa ya kak?"
 
   utter_daftarPMDK:
   - text: "pendaftaran jalur PMDK mulai tanggal 21 September 2020 ya"
@@ -43,15 +54,16 @@ responses:
 
   utter_daftarAfterResponse:
   - text: "ada lagi yang dapat saya bantu?"
+  - text: "ada yang bisa saya bantu lagi?"
 
   utter_daftarDone:
-  - text: "baik kak, terima kasih juga yaa"
+  - text: "baik kak, sampai jumpa!"
 
   utter_nama:
   - text: "baik, {tellName} ada yang bisa saya bantu?"
 
   utter_greet:
-  - text: "Hai, ada yang bisa MinBot bantu?"
+  - text: "Hai, ada yang bisa saya bantu?"
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"

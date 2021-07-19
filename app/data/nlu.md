@@ -15,13 +15,25 @@
 - registrasi pmdk
 - pendaftaran jalur pmdk
 - daftar pmdk
+- kalau pendaftaran PMDK kapan ya
+- kalau pmdk kapan
+- pmdk gimana min
+- pmdk kapan
+- kalau registrasi PMDK kapan
+- registrasi pmdk kapan
 
-## intent:daftarPMDK
+## intent:daftarUSM
 - usm
 - jalur usm
 - registrasi usm
 - pendaftaran jalur usm
 - daftar usm
+- kalau pendaftaran USM kapan ya
+- kalau usm kapan
+- usm gimana min
+- usm kapan
+- kalau registrasi USM kapan
+- registrasi usm kapan
 
 ## intent:daftarDone
 - oh gitu makasih ya
@@ -37,6 +49,23 @@
 - [ardhi](tellName)
 - nama saya [annisa](tellName)
 - [novaldy](tellName) kak
+
+## intent:greet
+- hai
+- hello
+- hi
+- hay
+- hei
+- hey
+- selamat pagi
+- selamat sore
+- selamat malam
+
+## intent:again
+- ada lagi min
+- ada
+- masih ada nih
+- ada lagi
 
 <!-- ## intent:greet
 - hey
