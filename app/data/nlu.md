@@ -66,12 +66,6 @@
 - ada
 - masih ada nih
 - ada lagi
-- mau tanya satu lagi
-- mau tanya lagi min
-- ada yang mau saya tanyain lagi min
-- saya mau tanya lagi min
-- saya mau tanya
-- ada lagi 
 
 <!-- ## intent:greet
 - hey

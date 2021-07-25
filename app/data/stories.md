@@ -18,23 +18,9 @@
 * daftarDone
   - utter_daftarDone
 
-## daftarPMDK langsung
-* daftarPMDK
-  - utter_daftarPMDK
-  - utter_daftarAfterResponse
-* daftarDone
-  - utter_daftarDone
-
 ## daftarUSM happy path
 * daftarAsk
   - utter_daftarAsk
-* daftarUSM
-  - utter_daftarUSM
-  - utter_daftarAfterResponse
-* daftarDone
-  - utter_daftarDone
-
-## daftarUSM langsung
 * daftarUSM
   - utter_daftarUSM
   - utter_daftarAfterResponse

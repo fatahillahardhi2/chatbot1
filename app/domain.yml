@@ -63,7 +63,7 @@ responses:
   - text: "baik, {tellName} ada yang bisa saya bantu?"
 
   utter_greet:
-  - text: "Hai, ada yang bisa saya bantu?"
+  - text: "Hai hai hai, ada yang bisa saya bantu?"
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"
